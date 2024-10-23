@@ -26,6 +26,6 @@
 ## Code:
 `print("Hello World!")`
 
-I need to emphasize on ==the importance of achieving good grades this semester==.
+I need to emphasize on <mark>the importance of achieving good grades this semester</mark>.
 
 ~~Failure is an option~~
