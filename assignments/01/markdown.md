@@ -7,6 +7,7 @@
 
 ## Cheat Sheet:
 | Syntax | Description |
+| ---------- | ---------- |
 | Header | # H1, ## H2, ### H3 |
 | Bold | **bold text** |
 | Italic | *italicized text* |
